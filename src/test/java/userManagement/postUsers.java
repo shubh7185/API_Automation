@@ -249,7 +249,7 @@ public class postUsers {
         System.out.println(response.getBody().asString());
     }
 
-    @Test
+    @Test(description = "This method is used to Validate post with POJO")
     public void validatePostWithPOJODeserializationComplexArray() throws IOException
     {
         List<String> listLanguages = new ArrayList<>();
