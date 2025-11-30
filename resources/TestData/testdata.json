@@ -1,0 +1,14 @@
+{
+  "username" : "postman",
+  "password" : "password",
+  "endpoint" : "users",
+  "languages" :["Java", "JavaFX", "Python" ] ,
+  "contact" : [
+    "e-mail : shubh7815@gmail.com",
+    "phone : 8279456190",
+    "city : Noida",
+    "Area : Sector50",
+    "State : Uttar pradesh"
+
+  ]
+}
